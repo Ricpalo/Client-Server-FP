@@ -1,0 +1,16 @@
+{
+    "name": "ricardo-palomares/proyecto-final",
+    "description": "Proyecto Final Programaci\u0000n Cliente Servidor",
+    "authors": [
+        {
+            "name": "Ricardo Palomares",
+            "email": "ricpalo001@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
